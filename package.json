@@ -1,0 +1,31 @@
+{
+  "name": "epixdoviz",
+  "version": "1.0.3",
+  "description": "epixdoviz güncel bilgileri size sunar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "bitbucket",
+    "url": "git+http://185.194.172.30:7990/scm/ep/epixdoviz.git"
+  },
+  "dependencies": {
+      "package-name": "git+http://185.194.172.30:7990/scm/ep/epixdoviz.git"
+  },
+  "keywords": [
+    "doviz",
+    "kur",
+    "altın",
+    "kripto"
+  ],
+  "author": "Epixsoft",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://185.194.172.30:7990/scm/ep/epixdoviz.git"
+  },
+  "homepage": "https://epixsoft.net",
+  "dependencies": {
+    "tabletojson": "^2.0.7"
+  }
+}
