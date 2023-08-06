@@ -1,4 +1,6 @@
 # epixdoviz
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fepixsoftnet%2Fepixdoviz.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fepixsoftnet%2Fepixdoviz?ref=badge_shield)
+
 
 epixdoviz kütüphanesi ile güncel doviz,altin,borsa,kripto para piyasaların çıktısını verir
 
@@ -32,3 +34,6 @@ epixdoviz kütüphanesi ile güncel doviz,altin,borsa,kripto para piyasaların �
 
 ### Tüm Hisse Senetleri
     epixdoviz.borsa_hisseler().then(console.log).catch(console.error)
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fepixsoftnet%2Fepixdoviz.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fepixsoftnet%2Fepixdoviz?ref=badge_large)
